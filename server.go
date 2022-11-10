@@ -5,5 +5,5 @@ import (
 )
 
 func ServerRpc() {
-	fmt.Println("Ready to rock!!!")
+	fmt.Println("Ready to rock!!!!")
 }
